@@ -1,6 +1,6 @@
 # Blog Website mit Hugo | Static Site Generation mit Markdown
 
-![Projektvorschau]()
+![Projektvorschau](https://github.com/ramazanozguven/31_Blog-Website-mit-Hugo/blob/a4ecd285e9b347ebe03f0531c87f561a563001f9/Projektvorschau.png)
 
 ## Schnellstes Blog der Welt mit Hugo und Markdown-Inhalten
 
